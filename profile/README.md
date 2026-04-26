@@ -2,7 +2,7 @@
 ## 👋Hello There!
 # This is the Offical Repository for Tuxzilla Inc.
 
-## Projects we're maintaining and working on:
+# Projects we're maintaining and working on:
 - TuxHost
 - TuxMail
 - botplate/baseplatia
