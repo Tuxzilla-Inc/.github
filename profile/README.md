@@ -12,7 +12,7 @@ We build open source cool software, and we hope you'll join us.
 
 
 # Planned Projects:
-- TuxMail (plannd for 2027)
+- TuxMail (planned for 2027)
 - TuxCDN - a Caching Content Delivery Network that should be Decent. (we think.) Planned for 2028
 - TuxVPN - Planned for 2030
 
