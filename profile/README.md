@@ -1,10 +1,7 @@
-# Welcome to Tuxzilla Inc.
+## 👋Hello There! Welcome to Tuxzilla Inc.
 
 
-👋Hello There!
-
-
-We build open source cool stuff, and we hope you'll join us.
+We build open source cool software, and we hope you'll join us.
 
 
 
@@ -20,9 +17,11 @@ We build open source cool stuff, and we hope you'll join us.
 - TuxVPN - Planned for 2030
 
 
+## The Team
+- [@Tux-zilla](https://github.com/Tux-zilla) — CEO, Project Leader and Main Dev
+- [@0dvd](https://github.com/0dvd) — "Developer"
+- [@i-am-amri](https://github.com/i-am-amri) — Junior Developer
 
-## About
-CEO and Project Leader [@Tux-zilla](https://github.com/Tux-zilla).
+### If  you wanna join our dev team, Shoot me a message on Discord!
 
-
-theres other people too they just havent made a github account
+Tuxzilla's Discord Username: tuxza
