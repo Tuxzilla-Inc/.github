@@ -1,27 +1,35 @@
-## 👋Hello There! Welcome to Tuxzilla Inc.
+# Tuxzilla Inc.
 
+Hi there!👋<br>
+We're builders of open-source SaaS products. Glad you're here.<br>
+And no, we aren't incorporated.
 
-We build open source cool software, and we hope you'll join us.
+---
 
+## 🚀 Active Projects
 
+| Project | Description |
+|---|---|
+| [TuxHost](https://tuxhost.cloud) | Managed Linux VPS & web hosting |
+| [baseplatia](https://baseplatia.net) | poorly made Discord capitalism simulator |
 
-# Projects we're maintaining and working on:
-- [TuxHost](https://tuxhost.cloud) — Managed Linux VPS and web hosting
-- botplate/[baseplatia](https://baseplatia.net) — Discord capitalism simulator
+---
 
+## 🗓️ On the Roadmap
 
+| Project | ETA | What it is |
+|---|---|---|
+| TuxMail | 2027 | Secure, No logging mail platform |
+| TuxCDN | 2028 | Caching CDN — should be decent. |
+| TuxVPN | 2030 | Secure VPN service built off WireGuard |
 
-# Planned Projects:
-- TuxMail (planned for 2027)
-- TuxCDN - a Caching Content Delivery Network that should be Decent. (we think.) Planned for 2028
-- TuxVPN - Planned for 2030
+---
 
+## 👥 The Team
 
-## The Team
-- [@Tux-zilla](https://github.com/Tux-zilla) — CEO, Project Leader and Main Dev
-- [@0dvd](https://github.com/0dvd) — "Developer"
-- [@i-am-amri](https://github.com/i-am-amri) — Junior Developer
+- **[@Tux-zilla](https://github.com/Tux-zilla)** — CEO, Lead Developer
+- **[@0dvd](https://github.com/0dvd)** — Developer, Quality Control
+- **[@i-am-amri](https://github.com/i-am-amri)** — Developer
+- **[@AlaTomKing](https://github.com/AlaTomKing)** - Idk what this guy does
 
-### If  you wanna join our dev team, Shoot me a message on Discord!
-
-Tuxzilla's Discord Username: tuxza
+> Want in? DM **tuxza** on Discord.
