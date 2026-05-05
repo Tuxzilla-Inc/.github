@@ -1,6 +1,6 @@
-# Tuxzilla Inc.
+# 🐧 Tuxzilla Inc.
 
-Hi there!👋<br>
+👋 Hi there!<br>
 We're builders of open-source SaaS products. Glad you're here.<br>
 And no, we aren't incorporated.
 
