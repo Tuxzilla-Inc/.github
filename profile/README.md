@@ -1,4 +1,4 @@
-# 🐧 Tuxzilla co
+# 🐧 tuxzilla.co
 
 👋 Hi there!<br>
 we might build something some day..!
